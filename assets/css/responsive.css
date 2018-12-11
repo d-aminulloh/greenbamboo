@@ -171,6 +171,15 @@
         .map-loc{
           margin-top: 25px;
         }
+        .prev-custom {
+          left: 0 !important;
+      }
+      .next-custom {
+          right: 0 !important;
+      }
+      .f-whatsapp {
+        margin-top: 1.8px;
+    }
       }
     
     /* 
@@ -246,6 +255,15 @@
       .map-loc{
         margin-top: 25px;
       }
+      .prev-custom {
+        left: 0 !important;
+    }
+    .next-custom {
+        right: 0 !important;
+    }
+    .f-whatsapp {
+      margin-top: 1.8px;
+  }
     }
     
     /* 
@@ -347,6 +365,15 @@
       .map-loc{
         margin-top: 25px;
       }
+      .prev-custom {
+        left: 0 !important;
+    }
+    .next-custom {
+        right: 0 !important;
+    }
+    .f-whatsapp {
+      margin-top: 1.8px;
+  }
     }
 
 
@@ -444,6 +471,15 @@
       .map-loc{
         margin-top: 25px;
       }
+      .prev-custom {
+        left: 0 !important;
+    }
+    .next-custom {
+        right: 0 !important;
+    }
+    .f-whatsapp {
+      margin-top: 1.8px;
+  }
     }
   
   /*======================================================
