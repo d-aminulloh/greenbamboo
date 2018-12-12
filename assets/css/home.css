@@ -169,7 +169,7 @@ body, html {
 .nav-wrapper {
     margin: auto;
     width: 95%;
-    background-color: rgb(245, 245, 245);
+    /* background-color: rgb(245, 245, 245); */
     border-radius: 100px;
     max-height: 80px;
 } 
@@ -210,7 +210,7 @@ body, html {
       transition: none !important;
     }
     .scrolled{
-      background-color: #fff !important;
+      /* background-color: #fff !important; */
       transition: 0.5s;
       display: block;
       position: fixed !important;
@@ -226,7 +226,7 @@ body, html {
 @media(max-width: 767px) {
     
     .scrolled{
-        background-color: #fff !important;
+        /* background-color: #fff !important; */
         transition: 0.5s;
         display: block;
         position: fixed !important;
